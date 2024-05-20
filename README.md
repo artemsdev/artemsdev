@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artemsdev
-- 👀 I’m interested in programming, creating end devices, ect.
-- 🌱 I’m currently learning web development bootcamp, creating apps for android devices.
+- 👀 I’m interested in programming and creating end devices (IoT), ect.
+- 🌱 I’m currently learning: web, python, java developments to create apps for different tasks.
 
 
 <!---
